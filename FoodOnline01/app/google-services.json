@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1000054634938",
+    "firebase_url": "https://food-online-d675a.firebaseio.com",
+    "project_id": "food-online-d675a",
+    "storage_bucket": "food-online-d675a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000054634938:android:0f36241570fa0b9b",
+        "android_client_info": {
+          "package_name": "com.room.foodonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000054634938-p5g640fkqrsisj0hjatnf4fc6p1g1355.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.room.foodonline",
+            "certificate_hash": "bd29b908c945fb114b4847b376a02a5a19cf3118"
+          }
+        },
+        {
+          "client_id": "1000054634938-k1m67g8ok4qgvikunq39vk9ncbqult80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs3YiHuIjShFRW_fS_RFQ-mFMolKbTy9c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000054634938-k1m67g8ok4qgvikunq39vk9ncbqult80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
